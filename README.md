@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 我只是一個剛開始研究Github怎麼用的大學生
 那個首頁有貪吃蛇的東西好酷喔喔喔♪(^∇^*)
 
-![Superliverbun's github activity graph](https://github.com/Superliverbun/Superliverbun/blob/main/assets/github-contribution-grid-snake.svg)https://github.com/Superliverbun/Superliverbun/blob/main/assets/github-contribution-grid-snake.svg)
+![Superliverbun's github activity graph](https://github.com/Superliverbun/Superliverbun/blob/main/assets/github-contribution-grid-snake.svg)
