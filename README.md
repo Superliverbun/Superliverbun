@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 那個首頁有貪吃蛇的東西好酷喔喔喔♪(^∇^*)
 
 
-![](https://raw.githubusercontent.com/Superliverbun/Superliverbun/main/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Superliverbun/Superliverbun/main/assets/github-contribution-grid-snake.svg)
