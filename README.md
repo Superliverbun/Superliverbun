@@ -1,8 +1,10 @@
-<a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
+
 ## Hey 👋, I'm Hazel
 
-Hi there, I'm Hazel, a bachelor's student.
-Now I am studying information security at **[YZU]([http://english.hust.edu.cn/](https://www.yzu.edu.tw/index.php/tw/))**.
+Hi there, I'm **Hazel**, a **bachelor's student**.<br/>
+
+Now I am studying information security at **[YZU](https://www.yzu.edu.tw/index.php/tw/)**.
+
 
 <!--
 **Superliverbun/Superliverbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +23,7 @@ Here are some ideas to get you started:
 
 <img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=Superliverbun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Hazel's github stats"/>
 
-我只是一個剛開始研究Github怎麼用的大學生<br/>
-那個首頁有貪吃蛇的東西好酷喔喔喔♪(^∇^*)
+
 
 
 ### My Github contribution
