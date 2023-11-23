@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 
 ### My Github contribution
-![](https://raw.githubusercontent.com/Superliverbun/Superliverbun/output/github-contribution-grid-snake.svg)
-誰可以教教我貪食蛇的動畫怎麼用
+![](https://github.com/Superliverbun/Superliverbun/blob/output/github-contribution-grid-snake-dark.svg)
+
