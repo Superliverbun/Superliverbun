@@ -3,7 +3,7 @@
 
 Hi there, I'm **Hazel**, a **bachelor's student**.<br/>
 
-Now I am studying information security at **[YZU](https://www.yzu.edu.tw)**.
+Now I am studying information security at **[YZU](https://www.yzu.edu.tw/index.php/tw/)**.
 
 
 <!--
