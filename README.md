@@ -1,4 +1,4 @@
-
+<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=Superliverbun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Hazel's github stats"/>
 
 ## Hey 👋, I'm Hazel
 
@@ -6,7 +6,7 @@ Hi there, I'm **Hazel**, a **bachelor's student**.<br/>
 
 Now I am studying information security at **[YZU](https://www.yzu.edu.tw/index.php/en-us/)**.
 
-<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=Superliverbun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Hazel's github stats"/>
+
 <!--
 **Superliverbun/Superliverbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 
 
-
 ### My Github contribution
-![](https://github.com/Superliverbun/Superliverbun/blob/output/github-contribution-grid-snake-dark.svg)
+![](https://github.com/Superliverbun/Superliverbun/blob/output/github-contribution-grid-snake.svg)
 
