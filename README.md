@@ -1,5 +1,8 @@
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
-## Hey 👋, I'm Albert Abdilim
+## Hey 👋, I'm Hazel
+
+Hi there, I'm Hazel, a bachelor's student.
+Now I am studying information security at **[YZU]([http://english.hust.edu.cn/](https://www.yzu.edu.tw/index.php/tw/))**.
 
 <!--
 **Superliverbun/Superliverbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
