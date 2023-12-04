@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ### My Github contribution
 ![](https://github.com/Superliverbun/Superliverbun/blob/output/github-contribution-grid-snake.svg)
 
-我有一顆還算新鮮的肝，請好好磨練我。
+我有一顆還算新鮮的肝，還可以熬。❤️‍🔥
