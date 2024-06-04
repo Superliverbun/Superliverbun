@@ -2,7 +2,7 @@
 
 ## Hey 👋, I'm Hazel
 Hi there, I'm **Hazel**, a **CTF Player**.<br/>
-Now I am studying information security at **[YZU](https://www.yzu.edu.tw/index.php/en-us/)**.
+Now I am studying information security at **[YZU](https://www.yzu.edu.tw/index.php/en-us/)**.<br/>
 I am more proficient in **Crypto** and **WEB** challenges.
 
 
